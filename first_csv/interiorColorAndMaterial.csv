@@ -1,0 +1,19 @@
+interiorColorAndMaterialId,interiorColorHex,additionalInteriorColorHex,interiorColorName,interiorMaterialName,cost
+1,#000000,,Black,Standard Interior,0
+2,#000000,,Black,Leather/Race-Tex Interior,4530
+3,#4A4A4A,,Slate Grey,Leather Interior,4530
+4,#B22222,,Bordeaux Red,Leather Interior,4530
+5,#708090,,Graphite Blue,Leather Interior,4530
+6,#D3CBC6,,Chalk,Leather Interior,4960
+7,#A0522D,,Truffle Brown,Club Leather Interior,6040
+8,#8B4513,,Black/Classic Cognac,Heritage Design Leather Interior,6040
+9,#000000,#FF4500,Black/Orange,Two-Tone Exclusive Manufaktur Leather Interior,0
+10,#000000,#8B4513,Black/Truffle Brown,Two-Tone Exclusive Manufaktur Leather Interior,0
+11,#000000,#708090,Black/Graphite Blue,Two-Tone Exclusive Manufaktur Leather Interior,0
+12,#000000,#B22222,Black/Bordeaux Red,Two-Tone Exclusive Manufaktur Leather Interior,0
+13,#000000,#FF8C00,Black/Chalk,Exclusive Manufaktur Leather Interior,17310
+14,#A9A9A9,,GT Silver,Standard Interior with Race-Tex,0
+15,#B03060,,Carmine Red,GTS Interior Package,4530
+16,#D3D3D3,,Slate Grey,GTS Interior Package,4530
+17,#000000,#FFFFFF,Black/White,Leather Interior with Chalk Stitching,4530
+18,#000000,#A0522D,Black/Truffle Brown,Club Leather with Chalk Stitching,6040

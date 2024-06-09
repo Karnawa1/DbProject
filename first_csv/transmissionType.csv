@@ -1,0 +1,6 @@
+transmissionTypeId,transmissionTypeName,isAutomatic
+1,Manual,false
+2,PDK,true
+3,Tiptronic,true
+4,2-speed transmission,true
+5,1-speed transmission,true
